@@ -14,19 +14,19 @@ export function CreateActivityModal({
     const { tripId } = useParams()
 
     async function createActivity(event: FormEvent<HTMLFormElement>) {
-        event.preventDefault
+        event.preventDefault()
 
         const data = new FormData(event.currentTarget)
 
-        const tittle = data.get('tittle')?.toString()
+        const title = data.get('title')?.toString()
         const occurs_at = data.get('occurs_at')?.toString()
 
         await api.post(`/trips/${tripId}/activities`, {
-            tittle,
+            title,
             occurs_at,
         })
 
-        closeCreateActivityModal()
+        window.document.location.reload()
     }
 
     return (
