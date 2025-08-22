@@ -12,7 +12,7 @@ Foi construído um protótipo funcional com interface moderna e responsiva, que 
 - **Tailwind CSS** – estilização rápida e eficiente, com design responsivo  
 - **Vite** – ferramenta de build e ambiente de desenvolvimento leve e veloz
 
-## 4. O que você aprendeu (habilidades/competências adquiridas)
+## 4. O que eu aprendi (habilidades/competências adquiridas)
 - Desenvolver aplicações com **React + TypeScript**, aproveitando benefícios de tipagem e componentes reutilizáveis  
 - Utilizar **Tailwind CSS** para estilizar com eficiência e responsividade  
 - Configurar e utilizar **Vite** como bundler moderno e rápido  
