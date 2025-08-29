@@ -25,4 +25,10 @@ Foi construído um protótipo funcional com interface moderna e responsiva, que 
 - **Adicionar persistência de dados**, usando backend ou API, para armazenar itinerários do usuário  
 - **Implementar autenticação e perfis**, permitindo plano personalizados salvos por usuário  
 - **Adicionar funcionalidades interativas**, como filtros de destinos, edições de atividades, e integração com mapas  
-- **Implementar deploy em produção**, usando plataformas como Vercel ou Netlify, para apresentar o projeto ao público  
+- **Implementar deploy em produção**, usando plataformas como Vercel ou Netlify, para apresentar o projeto ao público
+
+## 6. Passo a passo da execução
+- Clone o repositório
+- Abra o terminal e insira "npm install"
+- Depois insira "npm run dev"
+
