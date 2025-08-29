@@ -1,3 +1,5 @@
+<img width="1896" height="891" alt="Captura de tela 2025-08-29 184040" src="https://github.com/user-attachments/assets/d592dcfc-345a-440e-ada2-a6b726059aea" />
+
 #  plann.er - Projeto NLW
 
 ## 1. Objetivo do projeto
